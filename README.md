@@ -4,14 +4,6 @@ Página pessoal no estilo "link na bio", com fundo espacial, tema claro/escuro e
 
 ![Preview do projeto](./foto/preview.png)
 
-## ✨ Funcionalidades
-
-- Foto de perfil e nome de usuário
-- Botão para alternar entre tema claro e escuro
-- Botões de acesso rápido: **Veja meu portfólio** e **Habilidades aprendidas**
-- Ícones de redes sociais: GitHub, Instagram e LinkedIn
-- Fundo de galáxia com estrelas
-- Layout responsivo
 
 ## 🛠️ Tecnologias
 
