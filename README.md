@@ -13,7 +13,7 @@ Página pessoal no estilo "link na bio", com fundo espacial, tema claro/escuro e
 
 
 ## 🌐 Acesse online
-link do projeto: https://kityro.github.io/Portfolio2
+
 https://kityro.github.io/Portfolio2/
 
 ## 📚 Aprendizados
